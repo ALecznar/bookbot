@@ -1,2 +1,3 @@
 # bookbot
-Book info/characteristics app
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
